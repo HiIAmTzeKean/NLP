@@ -2,8 +2,9 @@
 tags:
   - 🌱
 date: 01--Jan--2024
-alias: 
-modified: 01--Jan--2024
+aliases:
+  - Natural language processing
+modified: 05--Feb--2024
 ---
 # NLP
 ## Challenges
@@ -21,6 +22,10 @@ modified: 01--Jan--2024
 - [[Word sense disambiguation]]
 - [[Semantic role labeling]]
 - [[Semantic textual similarity]]
+    - [[Lemma]]
+    - [[Minimum edit distance]]
+- Speech prediction
+    - [[N gram model]]
 ## Application
 - [[Conference resolution]]
 - [[Text classification]]
@@ -28,4 +33,4 @@ modified: 01--Jan--2024
 - Translation
 
 ---
-Links:
+Links: [[Regular expression]]
